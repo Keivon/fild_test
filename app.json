@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "fild_carousel_like",
+    "slug": "fild_carousel_like",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "fild_carousel_like"
+}
